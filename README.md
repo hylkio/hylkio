@@ -1,4 +1,4 @@
-# Hi there 👋  [![mirosopa](myprofile.jpg)[mirosopa]
+# Hi there 👋
 ##### I am Miro Sopanen and I am an entrepreneur and a programmer
 
 - See my website [mirosopa.github.io](https://mirosopa.github.io)
