@@ -1,11 +1,18 @@
-# Hi there 👋
-##### I am Miro Sopanen and I am an entrepreneur and a programmer
+<a href="https://mirosopa.github.io">
+<h1>
+  <p align="center">
+    <img alt="logo" style="width. 50px; height: 50px;" src="mylogo.jpg">
+  </p>
+</h1>
+</a>
 
 - See my website [mirosopa.github.io](https://mirosopa.github.io)
 - Feel free to fork my repositories and do some pull requests
 
-##### Also, see my blog
-- [mirosopa.gihtub.io/blog](https://mirosopa.github.io/blog)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mirosopa's github stats" src="https://github-readme-stats.vercel.app/api?username=mirosopa&show_icons=true&count_private=true&custom_title=My+Stats"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirosopa&layout=compact"></a>
+</p>
 
 <!-- Social Section -->
 <p>
