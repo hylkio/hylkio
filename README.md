@@ -1,10 +1,4 @@
-<a href="https://mirosopa.github.io">
-<h1>
-  <p align="center">
-    <img alt="logo" style="width. 50px; height: 50px;" src="mylogo.jpg">
-  </p>
-</h1>
-</a>
+### Hello Everyone!
 
 - See my website [mirosopa.github.io](https://mirosopa.github.io)
 - Feel free to fork my repositories and do some pull requests
