@@ -1,29 +1,14 @@
 ### Hello Everyone!
 
-- See my website [mirosopa.github.io](https://mirosopa.github.io)
-- Feel free to fork my repositories and do some pull requests
+[![Twitter Link](https://img.shields.io/twitter/follow/mirosopa_?color=1DA1F2&label=%40rafrasenberg&logo=Twitter&style=flat)](https://twitter.com/mirosopa_)
 
-> “A language that doesn't affect the way you think about programming is not worth knowing.”
-> ― Alan J. Perlis
+### About me
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mirosopa's github stats" src="https://github-readme-stats.vercel.app/api?username=mirosopa&show_icons=true&count_private=true&custom_title=My+Stats"></a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirosopa&layout=compact"></a>
-</p>
+I am Miro SOpanen, a Finnish Software Engineer & student. I’m a big lover of everything full-stack related. I like to drink a lots of coffee!
 
+Currently studying at Tampere High school of technologies.
 
-```javascript
-const you = new SoftwareDeveloper();
+#### Skills
+Python, HTML / CSS, JavaScript and Rust.
 
-let hasCoffee = true;
-
-while (hasCoffee) {
-  you.writeCode();
-}
-
-you.drinkAllCoffee()
-  .then(() => you.getMoreCoffee())
-  .catch(() => you.codeMore());
-  
-```
-
+> :email: Want to contact me? Shoot me a message: mirosopa@gmail.com
