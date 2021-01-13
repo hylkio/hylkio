@@ -2,9 +2,9 @@
 
 ### About me
 
-I am Miro SOpanen, a Finnish Software Engineer & student. I’m a big lover of everything full-stack related. I like to drink a lots of coffee!
+I am Miro Sopanen, a Finnish software engineer & student. I’m a big lover of everything full-stack related. I like to drink a lot of coffee!
 
-Currently studying at Tampere High school of technologies.
+I am Currently studying at Tampere High school of technologies.
 
 #### Skills
 Python, HTML / CSS, JavaScript and Rust.
