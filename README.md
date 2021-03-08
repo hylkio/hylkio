@@ -1,10 +1,4 @@
-<a href="https://sopanem.github.io">
-<h1>
-  <p align="center">
-    <img alt="logo" src="twitter_header.png">
-  </p>
-</h1>
-</a>
+
 <h1 align="center">
   <a href="https://sopanem.github.io">
     Miro Sopanen
