@@ -36,3 +36,5 @@ I am a 2nd-year Hich school Student at Tampere High School of technologies, purs
 </details>
 
 ![Profile last updated](https://img.shields.io/github/last-commit/sopanem/sopanem/master?label=Last%20updated&style=flat)
+
+- 😄OBS: Check out my [Blog](https://sopanem.github.io/blog)
