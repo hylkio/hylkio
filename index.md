@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Hi there, I'm Miro 👋🏼💻
 
-You can use the [editor on GitHub](https://github.com/sopanem/sopanem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Gmail Badge](https://img.shields.io/badge/-mirosopa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mirosopa@gmail.com "Connect via Email")
+[![Telegram Badge](https://img.shields.io/badge/-@sopanem-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/sopanem "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@sopanenm-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a 2nd-year Hich school Student at Tampere High School of technologies, pursuing mathematics and technologies, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-### Markdown
+- 🌱 I’m currently learning Python Programming and Data science tools
+- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 📫 How to reach me: Use any of the [badges](#hi-there-im-miro-) above
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<details>
+  <summary>Some of my Github Public Stats :computer:</summary>
+  
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=sopanem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sopanem)
 
-```markdown
-Syntax highlighted code block
+  ![Profile Views](https://komarev.com/ghpvc/?username=sopanem&color=blue)
+  ----
+  
+</details>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sopanem/sopanem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<details>
+  <summary>Find me around the web :globe_with_meridians:</summary>
+  
+[![DEV Badge](https://img.shields.io/badge/-sopanem-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sopanem)
+[![StackOverflow Badge](https://img.shields.io/badge/-sopanem-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/sopanem?tab=profile)
+[![Instagram Badge](https://img.shields.io/badge/-Instag
