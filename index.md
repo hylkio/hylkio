@@ -28,4 +28,13 @@ I am a 2nd-year Hich school Student at Tampere High School of technologies, purs
   
 [![DEV Badge](https://img.shields.io/badge/-sopanem-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sopanem)
 [![StackOverflow Badge](https://img.shields.io/badge/-sopanem-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/sopanem?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instag
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sopanem/ "Follow on Instagram")
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
+[![Reddit Badge](https://img.shields.io/badge/-u/mirosopv-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mirosopv/ "Find on Reddit")
+----
+
+</details>
+
+![Profile last updated](https://img.shields.io/github/last-commit/sopanem/sopanem/master?label=Last%20updated&style=flat)
+
+- 😄OBS: Check out my [Blog](https://sopanem.github.io/blog)
