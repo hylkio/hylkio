@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@sopanem-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/sopanem "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@sopanenm-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 
-I am a 2nd-year Hich school Student at Tampere High School of technologies, pursuing mathematics and technologies, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a 2nd-year High school Student at Tampere High School of technologies, pursuing mathematics and technologies, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning Python Programming and Data science tools
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
