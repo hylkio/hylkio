@@ -1,40 +1,18 @@
-## Hi there, I'm Miro 👋🏼💻
+### Hi, I'm Miro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Gmail Badge](https://img.shields.io/badge/-mirosopa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mirosopa@gmail.com "Connect via Email")
-[![Telegram Badge](https://img.shields.io/badge/-@sopanem-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/sopanem "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@sopanenm-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+I am a high school student at Tampere, Finland. <br />
+I do programming on my freetime. 
 
-I am a 2nd-year High school Student at Tampere High School of technologies, pursuing mathematics and technologies, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning Python Programming and Data science tools
-- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 📫 How to reach me: Use any of the [badges](#hi-there-im-miro-) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+#### Languages and tools I work with:
 
-<details>
-  <summary>Some of my Github Public Stats :computer:</summary>
-  
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=sopanem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sopanem)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=sopanem&color=blue)
-  ----
-  
-</details>
+<br />
 
-<details>
-  <summary>Find me around the web :globe_with_meridians:</summary>
-  
-[![DEV Badge](https://img.shields.io/badge/-sopanem-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sopanem)
-[![StackOverflow Badge](https://img.shields.io/badge/-sopanem-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/sopanem?tab=profile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sopanem/ "Follow on Instagram")
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
-[![Reddit Badge](https://img.shields.io/badge/-u/mirosopv-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mirosopv/ "Find on Reddit")
-----
-
-</details>
-
-![Profile last updated](https://img.shields.io/github/last-commit/sopanem/sopanem/master?label=Last%20updated&style=flat)
-
-- 😄OBS: Check out my [Blog](https://sopanem.github.io/blog)
+- 📍 &nbsp;	Current location: Tampere, FI
+- 💬 &nbsp;	Ask me about anything, I am happy to help
+- 💌 &nbsp;	How to reach me: [mirosopa@gmail.com](mailto:mirosopa@gmail.com)
